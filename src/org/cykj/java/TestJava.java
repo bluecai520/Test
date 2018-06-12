@@ -13,5 +13,9 @@ public class TestJava {
 	public void chungeTest() {
 		System.out.println("15:15此时重复问题");
 	}
+	
+	public void lastTimeTest() {
+		System.out.println("今天最后一次测试  四点钟");
+	}
 
 }
