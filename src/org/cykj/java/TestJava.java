@@ -17,5 +17,9 @@ public class TestJava {
 	public void lastTimeTest() {
 		System.out.println("今天最后一次测试  四点钟");
 	}
+	
+	public void testAgain() { //再次测试 春哥
+		System.out.println("四点半再次测试");
+	}
 
 }
