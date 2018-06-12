@@ -15,6 +15,6 @@ public class JavaTest {
 	
 	public void name() {
 		System.out.println("春哥");
-		System.out.println("志海。。。");
+		System.out.println("哈哈哈哈");
 	}
 }
