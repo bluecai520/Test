@@ -9,4 +9,7 @@ public class TestJava {
 		System.out.println("志海哈哈哈");
 	}
 
+	public void addMehtod() {
+		System.out.println("添加....");
+	}
 }
