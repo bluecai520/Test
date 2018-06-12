@@ -6,8 +6,9 @@ public class JavaTest {
 
 	public static void main(String args[]) {
 		System.out.println("hello world!");
-		System.out.println("鎴戞槸鑼冨竻,鎴戝凡缁忎笂浼犳垚鍔熶簡锛岃�惰�惰�讹紒锛�");
 		System.out.println("Hello boys ,I am MaoCong");
 		System.out.println("jian");
+		System.out.println("春哥 6月12日，九点半测试");
+		
 	}
 }
