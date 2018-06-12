@@ -12,4 +12,8 @@ public class TestJava {
 	public void addMehtod() {
 		System.out.println("添加....");
 	}
+	
+	public void testMetod() {
+		System.out.println("你好....");
+	}
 }
