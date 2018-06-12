@@ -16,4 +16,10 @@ public class TestJava {
 	public void testMetod() {
 		System.out.println("你好....");
 	}
+	
+	//冲突测试，志海添加。。。。
+	public void conflictTest() {
+		
+		System.out.println("哈哈哈哈哈哈");
+	}
 }
