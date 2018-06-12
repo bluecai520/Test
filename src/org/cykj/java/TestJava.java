@@ -9,4 +9,7 @@ public class TestJava {
 		System.out.println("春哥修改此函数");
 	}
 
+	public void addMehtod() {
+		System.out.println("添加....");
+	}
 }
