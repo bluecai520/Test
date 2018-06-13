@@ -42,4 +42,10 @@ public class TestJava {
 	public void test() {
 		System.out.println("123456 --- mao");
 	}
+	
+	
+	//思远。。。
+	public void methdT() {
+		System.out.println("======");
+	}
 }
