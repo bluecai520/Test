@@ -48,4 +48,8 @@ public class TestJava {
 	public void methdT() {
 		System.out.println("======");
 	}
+	//简思远测试2
+	public void  test2() {
+		System.out.println("简思远");
+	}
 }
