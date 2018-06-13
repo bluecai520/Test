@@ -37,4 +37,9 @@ public class TestJava {
 		
 		System.out.println("哈哈哈哈哈哈");
 	}
+	
+	//毛聪
+	public void test() {
+		System.out.println("123456 --- mao");
+	}
 }
